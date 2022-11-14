@@ -31,9 +31,6 @@ Evaluation of terms should be done **left-to-right** subjected to precedence giv
 
 “1 + (2 \* 3) + 3 ^ 2” will result in 100.
 
-
-
-
 Explanation:
 
 Total = 1
@@ -47,6 +44,8 @@ Total = 10 ^ 2 = 100
 *Note that these are not our usual arithmetic operations where we follow the BODMAS order*.
 
 **Hint:** Sample binary tree for the expression “1 + (2 \* 3) + 3 ^ 2”
+
+![Hint](/TreeSample.PNG))
 
 A basic template for your program is provided below.
 
